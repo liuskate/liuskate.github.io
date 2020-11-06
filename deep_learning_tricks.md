@@ -1,8 +1,12 @@
 ## 深度学习常规流程
 
-You can use the [editor on GitHub](https://github.com/liuskate/liuskate.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 模型选择
+  先从简单模型开始，逐步使用复杂模型
+  
+### 
+  构造集内测试集、集外测试集
+  集内测试集的结果，表征了模型的能力上限
+  集内集外测试集上的diff，表达了是欠拟合 or 过拟合
 
 [软连接](https://github.com/liuskate/liuskate.github.io/edit/master/index.md)
 
