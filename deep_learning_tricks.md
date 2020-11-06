@@ -3,10 +3,12 @@
 #### 模型选择
   先从简单模型开始，逐步使用复杂模型
   
-### 过拟合/欠拟合
+#### 过拟合/欠拟合
   构造集内测试集、集外测试集  
   集内测试集的结果，表征了模型的能力上限  
   集内集外测试集上的diff，表达了是欠拟合 or 过拟合  
+
+
 
 [软连接](https://github.com/liuskate/liuskate.github.io/edit/master/index.md)
 
